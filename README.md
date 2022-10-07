@@ -93,12 +93,3 @@ SM9_Verify(msg, 20, &sign, &pk, NULL);
     解密10000次大约耗时：214秒
     
     密钥交换20000次大约耗时：833秒
-
-# 捐献
-接受ETH捐献：
-ETH地址：[0x36D112ad944c44Be528D5B799ECC131ffD3669BA](https://etherscan.io/address/0x36D112ad944c44Be528D5B799ECC131ffD3669BA)
-
-接受EOS捐献：
-EOS账号：[jueduijuxing](https://eosflare.io/account/jueduijuxing)
-
-所有收到的捐献将以徐峥、刘青云、周迅或张韶涵的名义在西部助建希望小学、水井等基础设施（不知以他人名义捐献是否妥当，如有不妥将删除）。
